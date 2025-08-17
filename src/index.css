@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ダークモードでも読みやすいように、body直下で背景＆テキスト色を固定 */
+html, body, #root {
+  height: 100%;
+}
