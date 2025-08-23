@@ -1,7 +1,7 @@
 {
   "name": "ow2-scrim",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,6 +13,7 @@
     "node": ">=18"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.45.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
